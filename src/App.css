@@ -1,0 +1,7 @@
+body { font-family: sans-serif; background: #f9fafb; margin: 0; }
+.container { max-width: 960px; margin: 20px auto; padding: 20px; background: white; border-radius: 8px; }
+.logo { width: 50px; margin-right: 8px; vertical-align: middle; }
+select { margin: 10px 0; padding: 6px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+th { background: #f3f4f6; }
